@@ -55,4 +55,4 @@ And you push the commit
 $ git push
 ```
 
-That's all folks
+If you read so far you are awesome :)
