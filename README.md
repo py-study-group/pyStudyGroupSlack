@@ -13,6 +13,12 @@ $ git clone https://github.com/Belonias/pyStudyGroupSlack.git .
 
 *Windows users update coming soon*
 
+Then go inside the pyStudyGroupSlack folder
+
+```
+$ cd pyStudyGroupSlack
+```
+
 Then you create a folder with your slack name
 
 ```
@@ -36,7 +42,12 @@ I can create a folder with my projects
 **OR**
 Ask for help from other members
 
-# 
+Then you go up on folder
+
+```
+$ cd ..
+```
+
 Then you add the folder on git
 
 ```
