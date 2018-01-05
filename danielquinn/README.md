@@ -8,7 +8,7 @@ me in the channel or just DM me.
 Here's all of my stuffs:
 
 * [Github](https://github.com/danielquinn)
-* [Twitter](https://twitter.com/searchingfortao)
+* [Twitter](https://twitter.com/danielagquinn)
 * [LinkedIn](https://www.linkedin.com/in/danielquinn)
 * [Website](http://danielquinn.org/)
 
